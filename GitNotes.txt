@@ -13,10 +13,11 @@
 13)git config --global user.email you@example.com
 14)git config --list => to see the config i.e who you are ?
 15)git log -n => To see the history of your git commites,n-last n commits
-16)git push
+16)git push 
 17)remote => a remote is a duplicate instance of your repository that lives somewhere elseon a remote server
 18) git remote => give the all remote associated with the pc.
 19)git remote -v => give the more origins remotes v means verbose
 20)git push origin master =>origin means remote, master means branch
-21)git init=>
-22)git add=>
+21)git init=> to initialized the git in that directory
+22)git add=> to add to starging area
+23)how to add origin => git remote add origin https://*******
